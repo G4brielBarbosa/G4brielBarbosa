@@ -1,9 +1,9 @@
 
-  Olá, eu sou o Gabriel Barbosa.
+  <h1>Olá, eu sou o Gabriel Barbosa.</h1>
 
 
-- 🔭 Estou interessado em desenvolvimento web front-end
-- 🌱 Atualmente estou aprimorando meus conhecimentos de JavaScript.
+<h3>- 🔭 Estou interessado em desenvolvimento web front-end<br>
+- 🌱 Atualmente estou aprimorando meus conhecimentos de JavaScript.</h3>
 
 ##
 
