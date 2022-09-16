@@ -2,8 +2,8 @@
   <h1>Olá, eu sou o Gabriel Barbosa.</h1>
 
 
-<h3>- 🔭 Estou interessado em desenvolvimento web front-end<br>
-- 🌱 Atualmente estou aprimorando meus conhecimentos de JavaScript.</h3>
+<h3>- 🔭 Estou interessado em desenvolvimento FullStack<br>
+- 🌱 Atualmente estou aprimorando meus conhecimentos de Java SpringBoot e AngularJS.</h3>
 
 ##
 
