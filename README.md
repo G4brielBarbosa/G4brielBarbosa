@@ -3,7 +3,7 @@
 
 
 <h3>- 🔭 Estou interessado em desenvolvimento FullStack<br>
-- 🌱 Atualmente estou aprimorando meus conhecimentos de Java SpringBoot e AngularJS.</h3>
+- 🌱 Atualmente estou aprimorando meus conhecimentos de Java SpringBoot e Angular.</h3>
 
 ##
 
