@@ -16,8 +16,15 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://user-images.githubusercontent.com/98058431/210595521-594df7f2-8b48-4b98-b775-c39ca1c2b2c1.svg">
+  <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://user-images.githubusercontent.com/98058431/210595745-eb94d8ff-9c4e-49cb-9bb8-9b5a801f1178.svg">
+  <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://user-images.githubusercontent.com/98058431/210595912-e42b76c7-73da-47de-aced-2ef099f0785f.svg">
+   <img align="center" alt="Gabriel-Angular" height="30" width="40" src="https://user-images.githubusercontent.com/98058431/210596217-9664cd89-16c3-410d-b7a2-81b327f1a4a4.svg">
+
+
+
+
 </div>
   
 ##
