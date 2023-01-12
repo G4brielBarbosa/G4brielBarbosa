@@ -4,12 +4,13 @@
 
 <h3>- 🔭 Estou interessado em desenvolvimento FullStack<br>
 - 🌱 Atualmente estou aprimorando meus conhecimentos de Java SpringBoot e Angular.</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
 <div>
   <a href="https://github.com/G4brielBarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G4brielBarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=G4brielBarbosa)](https://github.com/anuraghazra/github-readme-stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielBarbosa&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
