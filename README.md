@@ -2,8 +2,8 @@
   <h1>Olá, eu sou o Gabriel Barbosa.</h1>
 
 
-<h3>- 🔭 Estou interessado em desenvolvimento FullStack<br>
-- 🌱 Atualmente estou aprimorando meus conhecimentos de Java SpringBoot e Angular.</h3>
+<h3>- 🔭 Estou interessado em me tornar um Engenheiro de Dados<br>
+- 🌱 Atualmente estou aprimorando meus conhecimentos nos fundamentos de Engenharia de Dados.</h3>
 
 
 ##
